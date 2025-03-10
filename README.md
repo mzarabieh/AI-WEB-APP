@@ -1,10 +1,7 @@
 # AI-WEB-APP👁️
 ## 🔍 Overview
-The Procrastination Detection WebApp is a full-stack, AI-powered application designed to help users stay focused during study sessions. Leveraging MediaPipe ML, TensorFlow, and Flask, the app intelligently monitors user behavior and alerts them if they exhibit signs of procrastination. With an intuitive React frontend, users can engage with the app in real-time, while the PostgreSQL database ensures data persistence.
+The Procrastination Detection WebApp is a full-stack, AI-powered application designed to help users stay focused during study sessions. Leveraging MediaPipe ML, TensorFlow, and Flask, the app intelligently monitors user behavior and alerts them if they exhibit signs of procrastination. With an intuitive React frontend, users can engage with the app in real-time, while the PostgreSQL database ensures data persistence. Stay productive with a smart system that knows when you're off track! The WebApp utilizes advanced ML models that detect nuanced full-body gestures, ensuring that only clear signs of procrastination are flagged.
 
-
-* Stay productive with a smart system that knows when you're off track! The WebApp utilizes advanced ML models that detect nuanced full-body gestures, ensuring that only clear signs of procrastination are flagged.
-* 
 
 
 
@@ -19,6 +16,7 @@ The Procrastination Detection WebApp is a full-stack, AI-powered application des
 
 ## 🌐 Roadmap and Future Improvements
 This project is still very much under active development. Some features I'm hoping to add next:
+
 - Add more advanced gesture recognition patterns to improve detection accuracy.
 
 -Implement a time-tracking dashboard for detailed session insights.
