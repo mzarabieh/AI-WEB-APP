@@ -8,7 +8,8 @@ The Procrastination Detection WebApp is a full-stack, AI-powered application des
 
 
 
-## ⚙️The MediaPipe Holistic ML model captures 543 key points for face, hand, and pose detection.
+## ⚙️How it Works
+-The MediaPipe Holistic ML model captures 543 key points for face, hand, and pose detection.
 
 -Using TensorFlow, the model is trained to detect common procrastination gestures, such as slouching, browsing unrelated content, or looking away from the screen for prolonged periods.
 
