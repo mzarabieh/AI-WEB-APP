@@ -17,7 +17,7 @@ The Procrastination Detection WebApp is a full-stack, AI-powered application des
 ## 🌐 Roadmap and Future Improvements
 This project is still very much under active development. Some features I'm hoping to add next:
 
-- Add more advanced gesture recognition patterns to improve detection accuracy.
+-Add more advanced gesture recognition patterns to improve detection accuracy.
 
 -Implement a time-tracking dashboard for detailed session insights.
 
